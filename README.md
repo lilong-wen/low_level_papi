@@ -55,6 +55,3 @@ llp.shutdown()
 - Easy-to-use Python API
 - Efficient CFFI-based implementation
 
-## License
-
-This project is licensed under BSD License.
